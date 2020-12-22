@@ -2,8 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="tabFontSize" value="15" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-62fa7ee:1768b0b9548:-8000" />
